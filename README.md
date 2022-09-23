@@ -1,2 +1,3 @@
-# Satellite-Pose-Estimation
-Surrey Space center, Satellite Pose estimation Challenge
+# SatPose
+
+Satellite Pose Estimation with PyTorch lightning (from Arun)
